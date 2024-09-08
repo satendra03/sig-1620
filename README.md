@@ -1,6 +1,6 @@
-# React + Vite
+# React + Vite + SIH PROJECT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a code of our sih project - 1620
 
 Currently, two official plugins are available:
 

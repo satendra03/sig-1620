@@ -12,6 +12,18 @@ This project was developed as part of the **Smart India Hackathon (SIH)** and fo
 
 ---
 
+## **Sample Images**
+Here are some sample screenshots of the project:
+
+![Sample 1](/Samples/Home%20page.png)  
+![Sample 2](/Samples/sample2.png)  
+![Sample 3](/Samples/sample3.png)  
+![Sample 4](/Samples/sample4.png)  
+![Sample 5](/Samples/sample5.png)  
+![Sample 6](/Samples/sample6.png)  
+
+---
+
 ## **Features**
 ### **Admin Dashboard**
 - Add, update, or delete patient, doctor, department, and medicine records.

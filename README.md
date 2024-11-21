@@ -19,7 +19,8 @@ This project was developed as part of the **Smart India Hackathon (SIH)** and fo
 
 Here are some sample screenshots of the project:
 
-<div style="display:flex;">
+<div style="">
+   
 **Home Page**  
 <img src="Samples/Home%20Page.png" alt="Home Page" width="400" >
 

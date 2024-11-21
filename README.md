@@ -2,6 +2,9 @@
 
 # **SIH Project: CareCrest Multispeciality Hospital Management System**
 
+## **Flow Chart**
+<img src="Samples/flow%20chart.png" alt="Flow Chart" >
+
 ## **Overview**
 CareCrest Multispeciality Hospital Management System (HMS) is an efficient and comprehensive platform designed to streamline hospital management processes, including patient records, doctor schedules, department information, and medicine tracking. Built using modern web technologies, the system ensures reliability, ease of use, and scalability, meeting the real-world needs of healthcare providers.
 
@@ -13,14 +16,31 @@ This project was developed as part of the **Smart India Hackathon (SIH)** and fo
 ---
 
 ## **Sample Images**
+
 Here are some sample screenshots of the project:
 
-![Sample 1](/Samples/Home%20page.png)  
-![Sample 2](/Samples/sample2.png)  
-![Sample 3](/Samples/sample3.png)  
-![Sample 4](/Samples/sample4.png)  
-![Sample 5](/Samples/sample5.png)  
-![Sample 6](/Samples/sample6.png)  
+<div style="display:flex;">
+**Home Page**  
+<img src="Samples/Home%20Page.png" alt="Home Page" width="400" >
+
+**SignIn Page**  
+<img src="Samples/SignIn%20Page.png" alt="SignIn Page" width="400" >
+
+**LogIn Page**  
+<img src="Samples/LogIn%20page.png" alt="LogIn Page" width="400" >
+
+**Select Department**  
+<img src="Samples/Select%20Department.png" alt="Select Department" width="400" >
+
+**Bed Availability**  
+<img src="Samples/Bed%20availability.png" alt="Bed Availability" width="400" >
+
+**Stats**  
+<img src="Samples/Stats.png" alt="Stats" width="400" >
+
+**Joined Queue**  
+<img src="Samples/Joined%20Queue.png" alt="Joined Queue" width="400" >
+</div>
 
 ---
 
